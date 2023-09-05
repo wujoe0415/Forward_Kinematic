@@ -38,7 +38,7 @@ cmake --build build --config Release --target install --parallel 8
 - `libwayland-dev wayland-protocols extra-cmake-modules libxkbcommon-dev` (For Wayland)
 - `libosmesa6-dev` (For OSMesa)
 
-# 110550047 Animation HW2
+# Forward Kinematic Implementation
 
 ## Introduction
 
